@@ -287,6 +287,7 @@ int main() {
     int choice;
     do {
         std::cout << "\nTeacher M.Waleed Khan\n"
+                   <<"\nTeacher id '1'\n"
                   << "\nTeacher' Email 'mwaleedkhan@gmail.com'\n"
                   << "1. Enroll in a course\n"
                   << "2. Drop a course\n"
