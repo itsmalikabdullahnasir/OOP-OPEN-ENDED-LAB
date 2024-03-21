@@ -37,6 +37,7 @@ public:
     std::vector<Course*> coursesTaught;
 };
 
+
 class Course {
 public:
     Course(std::string code, std::string name, Teacher* teacher, int capacity) : courseCode(code), courseName(name), teacher(teacher), maxCapacity(capacity) {}
