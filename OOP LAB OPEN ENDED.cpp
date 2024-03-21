@@ -277,7 +277,7 @@ int main() {
     loadData(students, teachers, courses);
 
     int id = 123;
-    std::string name = "Zainab Asif";
+    std::string name = "Zainab_Asif";
     std::string email = "Zasif9204@gmail.com";
     Student newStudent(id, name, email);
 
